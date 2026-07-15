@@ -1,0 +1,57 @@
+{
+  "page": "https://krati-lodha.vercel.app/",
+  "mirrored_at": "2026-07-15T13:11:24Z",
+  "authorization_context": "User approved",
+  "allowed_external_hosts": [],
+  "summary": {
+    "downloaded": 3,
+    "failed": 0,
+    "skipped_external": 0,
+    "skipped_provider_assets": 4,
+    "skipped_other": 0,
+    "extra_urls": 0
+  },
+  "extra_urls": [],
+  "downloaded": [
+    {
+      "url": "https://krati-lodha.vercel.app/assets/index-BYehlFnU.css",
+      "path": "assets/index-BYehlFnU.css",
+      "bytes": 37037
+    },
+    {
+      "url": "https://krati-lodha.vercel.app/assets/index-BpY1wD3x.js",
+      "path": "assets/index-BpY1wD3x.js",
+      "bytes": 509929
+    },
+    {
+      "url": "https://krati-lodha.vercel.app/",
+      "path": "index.html",
+      "bytes": 409
+    }
+  ],
+  "failed": [],
+  "skipped_external": [],
+  "skipped_provider_assets": [
+    {
+      "url": "https://img.youtube.com/vi/I2ccc4hNzFs/maxresdefault.jpg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://img.youtube.com/vi/O7fygqLXOxo/maxresdefault.jpg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://img.youtube.com/vi/U71d4FrghYM/maxresdefault.jpg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://img.youtube.com/vi/z6DKxGyB550/maxresdefault.jpg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    }
+  ],
+  "skipped_other": []
+}

@@ -1,0 +1,559 @@
+{
+  "page": "https://burritomadre.rs/en/",
+  "mirrored_at": "2026-07-15T15:06:54Z",
+  "authorization_context": "User approved",
+  "allowed_external_hosts": [
+    "fonts.googleapis.com",
+    "fonts.gstatic.com"
+  ],
+  "summary": {
+    "downloaded": 17,
+    "failed": 3,
+    "skipped_external": 64,
+    "skipped_provider_assets": 22,
+    "skipped_other": 1,
+    "extra_urls": 0
+  },
+  "extra_urls": [],
+  "downloaded": [
+    {
+      "url": "https://burritomadre.rs/en/",
+      "path": "en/index.html",
+      "bytes": 386544
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/i/youtube_outline_experimental/player_full_enter_alt/v1/24px.svg",
+      "path": "s/i/youtube_outline_experimental/player_full_enter_alt/v1/24px.svg",
+      "bytes": 858
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "path": "s/roboto/v48/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBHMdazQ.woff2",
+      "bytes": 34668
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "path": "wp-content/plugins/cookie-law-info/lite/frontend/images/close.svg",
+      "bytes": 1345
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "path": "wp-content/plugins/cookie-law-info/lite/frontend/images/revisit.svg",
+      "bytes": 2339
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor-pro/assets/js/animated-headline.bc08854fb1e1a80434b2.bundle.min.js",
+      "path": "wp-content/plugins/elementor-pro/assets/js/animated-headline.bc08854fb1e1a80434b2.bundle.min.js",
+      "bytes": 7729
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor-pro/assets/js/lottie.5ea185196aba9f2de4f4.bundle.min.js",
+      "path": "wp-content/plugins/elementor-pro/assets/js/lottie.5ea185196aba9f2de4f4.bundle.min.js",
+      "bytes": 14906
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor-pro/assets/js/mega-menu-stretch-content.7ed04741ba7d5a80c556.bundle.min.js",
+      "path": "wp-content/plugins/elementor-pro/assets/js/mega-menu-stretch-content.7ed04741ba7d5a80c556.bundle.min.js",
+      "bytes": 1118
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor-pro/assets/js/mega-menu.857df1cf3198ae47b617.bundle.min.js",
+      "path": "wp-content/plugins/elementor-pro/assets/js/mega-menu.857df1cf3198ae47b617.bundle.min.js",
+      "bytes": 28208
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor-pro/assets/js/menu-title-keyboard-handler.b3891112675eb0b0c4d5.bundle.min.js",
+      "path": "wp-content/plugins/elementor-pro/assets/js/menu-title-keyboard-handler.b3891112675eb0b0c4d5.bundle.min.js",
+      "bytes": 7683
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "path": "wp-content/plugins/elementor/assets/js/shared-frontend-handlers.03caa53373b56d3bab67.bundle.min.js",
+      "bytes": 8481
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js",
+      "path": "wp-content/plugins/elementor/assets/js/text-editor.45609661e409413f1cef.bundle.min.js",
+      "bytes": 1348
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js?ver=4.9.3",
+      "path": "wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js",
+      "bytes": 11622
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2025/11/Barbacoa-Burrito-1536x1075.webp",
+      "path": "wp-content/uploads/2025/11/Barbacoa-Burrito-1536x1075.webp",
+      "bytes": 177884
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/Choose-Your-Meal.json",
+      "path": "wp-content/uploads/2026/02/Choose-Your-Meal.json",
+      "bytes": 588373
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/LEARN-MORE-COLOR.json",
+      "path": "wp-content/uploads/2026/02/LEARN-MORE-COLOR.json",
+      "bytes": 15134
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/LOYAL-YOU-ARE-2.json",
+      "path": "wp-content/uploads/2026/02/LOYAL-YOU-ARE-2.json",
+      "bytes": 22090
+    }
+  ],
+  "failed": [
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/Join-the-crew.json",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/rollwiththereal.json",
+      "error": "The read operation timed out"
+    },
+    {
+      "url": "https://burritomadre.rs/wp-content/uploads/2026/02/LEARN-MORE.json",
+      "error": "The read operation timed out"
+    }
+  ],
+  "skipped_external": [
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/cookie-law-info/lite/frontend/js/script.min.js?ver=3.5.3",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor-pro/assets/js/elements-handlers.min.js?ver=4.1.2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor-pro/assets/js/frontend.min.js?ver=4.1.2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor-pro/assets/js/webpack-pro.runtime.min.js?ver=4.1.2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor-pro/assets/lib/lottie/lottie.min.js?ver=5.6.6",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor-pro/assets/lib/sticky/jquery.sticky.min.js?ver=4.1.2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor/assets/js/frontend-modules.min.js?ver=4.1.4",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor/assets/js/frontend.min.js?ver=4.1.4",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor/assets/js/webpack.runtime.min.js?ver=4.1.4",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/elementor/assets/lib/font-awesome/js/v4-shims.min.js?ver=4.1.4",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/jet-engine/assets/js/frontend/frontend.js?ver=3.8.12",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/jet-engine/assets/lib/jet-plugins/jet-plugins.js?ver=1.1.0",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/premium-addons-for-elementor/assets/frontend/min-js/elements-handler.min.js?ver=4.11.86",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/sitepress-multilingual-cms/res/js/cookies/language-cookie.js?ver=495000",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/plugins/wp-rocket/assets/js/lazyload/17.8.3/lazyload.min.js",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/themes/hello-elementor/assets/js/hello-frontend.js?ver=3.4.9",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/APPLEstore1-1.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Achiote-piletina-Tacos-4-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/BM-Kruzni-logo-Osnovni.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/BM-Logo-Horizontalni.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Batica-2.jpg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Chips-Sos-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Deacon-Black.woff2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/GOOGLE-1.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Karakteri-RGB-05.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Karakteri-RGB6-1.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Layer_1-2.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Madre-Nachos-Carnitas-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Madre-cezar-salata-2-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/PHONE.png",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Pecene-Pecurke-Tacos-obrok-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Pikantna-piletina-kesadilja-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Torba-1472x1536.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/10/Vector-1.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/11/Barbacoa-Burrito-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/2025/11/Grande-Carnitas-Burrito-1536x1075.webp",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/elementor/google-fonts/fonts/figtree-3530fccd.woff2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/elementor/google-fonts/fonts/figtree-3c512d8e.woff2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/elementor/google-fonts/fonts/figtree-467cc915.woff2",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/flags/flag.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/flags/united-kingdom.svg",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-content/uploads/premium-addons-elementor/pafe-5866.js?ver=1783090049",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-includes/js/dist/hooks.min.js?ver=7496969728ca0f95732d",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-includes/js/dist/i18n.min.js?ver=781d11515ad3d91786ec",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-includes/js/jquery/jquery.min.js?ver=3.7.1",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://538bac88.delivery.rocketcdn.me/wp-includes/js/jquery/ui/core.min.js?ver=1.13.3",
+      "host": "538bac88.delivery.rocketcdn.me",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://analytics.ahrefs.com/analytics.js",
+      "host": "analytics.ahrefs.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/id?slf_rd=1",
+      "host": "googleads.g.doubleclick.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://jnn-pa.googleapis.com/$rpc/google.internal.waa.v1.Waa/GenerateIT",
+      "host": "jnn-pa.googleapis.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.doubleclick.net/instream/ad_status.js",
+      "host": "static.doubleclick.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F4D6580RJ3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&_eu=AEAAAAQ&ae=a&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&_s=2&tfd=12525",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F4D6580RJ3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&_eu=AEAAAAQ&ae=a&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&_s=3&tfd=19278",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-F4D6580RJ3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&gap.plf=5&tfd=4629",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-H6FYS57BY3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&_eu=AEAAAAQ&ae=a&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&_s=2&tfd=12525",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-H6FYS57BY3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&_eu=AEAAAAQ&ae=a&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&_s=3&tfd=19280",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/collect?v=2&tid=G-H6FYS57BY3&gtm=45Pe67d0v9236072104za200zb9250496785zd9250496785&_p=1784126848523&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZTNiMT&are=1&cid=260482091.1784126851&frm=0&ngs=1&pscdl=noapi&rcb=14&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115616985~115938466~115938468~118826210~118897920~118897930~119027224&sid=1784126850&sct=1&seg=0&dl=https%3A%2F%2Fburritomadre.rs%2Fen%2F&dt=Welcome%20to%20Burrito%20Madre%20%7C%20Roll%20with%20the%20real&en=page_view&_fv=1&_ss=1&_ee=1&gap.plf=5&tfd=4633",
+      "host": "www.google-analytics.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google.com/js/th/TZfRkQc1Q3hW8cU9Cb-y175Aw78rBPlXK9-tPWok7S0.js",
+      "host": "www.google.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google.com/recaptcha/api.js?render=explicit&ver=4.1.2",
+      "host": "www.google.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-WPT9CVF4",
+      "host": "www.googletagmanager.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=GT-WPT9CVF4&cx=c&gtm=4e67d0",
+      "host": "www.googletagmanager.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtm.js?id=GTM-K2MFBCMV",
+      "host": "www.googletagmanager.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.gstatic.com/recaptcha/releases/rL1ELiQAg1kPezz6_H9hTZ_i/recaptcha__en.js",
+      "host": "www.gstatic.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.gstatic.com/youtube/img/icons/mweb/youtube_fill/logo/v2/67px.svg",
+      "host": "www.gstatic.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    }
+  ],
+  "skipped_provider_assets": [
+    {
+      "url": "https://i.ytimg.com/vi/jkRU8XRIJL8/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGH8gFCgTMA8=&rs=AOn4CLBgJ-gDp4A42CQ8LhjQkwZiWFzyag",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://rr1---sn-gwpa-cvhek.googlevideo.com/videoplayback?expire=1784148452&ei=hJ1XarvVIvudssUP_uuPmQ4&ip=2405%3A201%3A3018%3Acb95%3A69e1%3Af50a%3Ae8dc%3A670b&id=o-ANbPES9DJvmJ1rz9sGOWnvRivwpdOG0fZlVmzLJaF5oZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=96&rms=au%2Cau&spc=SQ-umu75v0rrvih4naMmyh9rcgGBO8_FN0txe0UzoVNmklboqR8ZNCQpkGs1TL0-pMmyEw&svpuc=1&ns=or2Ui9IJHFasbVy0IYYkscoW&sabr=1&rqh=1&keepalive=yes&fexp=51565115%2C52017147&c=WEB_EMBEDDED_PLAYER&n=bcy4SgUdswzuaA&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRgIhAPL-zWvUdESha5CkSkpnsrHoLHUQmxWj_53JCUVLI7reAiEAjiHKMx2GmYd3OhEZ94YpabTMEd24lz7bpZwp8EO6RZc%3D&cpn=8lHRR5rlE2GZCf8X&cver=2.20260714.01.00&redirect_counter=1&cms_redirect=yes&cmsv=e&met=1784126853,&mh=lU&mm=29&mn=sn-gwpa-cvhek&ms=rdu&mt=1784126246&mv=m&mvi=1&pl=55&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgIxbvpk_k7nEXcSk2IuruXfH5zWjeTQDj1gNPx4NU8WkCIEDXSyHoyDslWBtz4A_mZjwXqYaIOkt3soKVKVfFAI4n&rn=2&alr=yes",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://rr1---sn-gwpa-cvhek.googlevideo.com/videoplayback?expire=1784148452&ei=hJ1XarvVIvudssUP_uuPmQ4&ip=2405%3A201%3A3018%3Acb95%3A69e1%3Af50a%3Ae8dc%3A670b&id=o-ANbPES9DJvmJ1rz9sGOWnvRivwpdOG0fZlVmzLJaF5oZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=96&rms=au%2Cau&spc=SQ-umu75v0rrvih4naMmyh9rcgGBO8_FN0txe0UzoVNmklboqR8ZNCQpkGs1TL0-pMmyEw&svpuc=1&ns=or2Ui9IJHFasbVy0IYYkscoW&sabr=1&rqh=1&keepalive=yes&fexp=51565115%2C52017147&c=WEB_EMBEDDED_PLAYER&n=bcy4SgUdswzuaA&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRgIhAPL-zWvUdESha5CkSkpnsrHoLHUQmxWj_53JCUVLI7reAiEAjiHKMx2GmYd3OhEZ94YpabTMEd24lz7bpZwp8EO6RZc%3D&cpn=8lHRR5rlE2GZCf8X&cver=2.20260714.01.00&redirect_counter=1&cms_redirect=yes&cmsv=e&met=1784126853,&mh=lU&mm=29&mn=sn-gwpa-cvhek&ms=rdu&mt=1784126246&mv=m&mvi=1&pl=55&lsparams=cps,met,mh,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRAIgIxbvpk_k7nEXcSk2IuruXfH5zWjeTQDj1gNPx4NU8WkCIEDXSyHoyDslWBtz4A_mZjwXqYaIOkt3soKVKVfFAI4n&rn=3&alr=yes",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://rr6---sn-gwpa-pqge.googlevideo.com/videoplayback?expire=1784148452&ei=hJ1XarvVIvudssUP_uuPmQ4&ip=2405%3A201%3A3018%3Acb95%3A69e1%3Af50a%3Ae8dc%3A670b&id=o-ANbPES9DJvmJ1rz9sGOWnvRivwpdOG0fZlVmzLJaF5oZ&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=96&met=1784126852%2C&mh=lU&mm=31%2C29&mn=sn-gwpa-pqge%2Csn-gwpa-cvhek&ms=au%2Crdu&mv=m&mvi=6&pl=55&rms=au%2Cau&initcwndbps=303750&spc=SQ-umu75v0rrvih4naMmyh9rcgGBO8_FN0txe0UzoVNmklboqR8ZNCQpkGs1TL0-pMmyEw&svpuc=1&ns=or2Ui9IJHFasbVy0IYYkscoW&sabr=1&rqh=1&mt=1784126489&fvip=1&keepalive=yes&fexp=51565115%2C52017147&c=WEB_EMBEDDED_PLAYER&n=bcy4SgUdswzuaA&sparams=expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Cspc%2Csvpuc%2Cns%2Csabr%2Crqh&sig=AE0s2JYwRgIhAPL-zWvUdESha5CkSkpnsrHoLHUQmxWj_53JCUVLI7reAiEAjiHKMx2GmYd3OhEZ94YpabTMEd24lz7bpZwp8EO6RZc%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms%2Cinitcwndbps&lsig=APaTxxMwRQIgK9FHemYJ0yckuip_-VIsR7akj3Mpxq4YP7x-mb_VBK8CIQCInfINFGFEMZ9qUGSmjlper2GjmiQtS-QQQZLCllBShQ%3D%3D&cpn=8lHRR5rlE2GZCf8X&cver=2.20260714.01.00&rn=1&alr=yes",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=8lHRR5rlE2GZCf8X&ver=2&cmt=2.988&fmt=247&fs=0&rt=4.467&euri=https%3A%2F%2Fburritomadre.rs%2F&lact=4230&cl=946735169&mos=1&volume=100&cbrand=apple&cbr=HeadlessChrome&cbrver=149.0.7827.55&c=WEB_EMBEDDED_PLAYER&cver=2.20260714.01.00&cplayer=UNIPLAYER&cos=Macintosh&cosver=10_15_7&cplatform=DESKTOP&autoplay=1&epm=1&splay=1&hl=en_GB&cr=IN&len=27&fexp=v1%2C24004644%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35403%2C65299%2C2877%2C9730%2C2498%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C13016%2C16087%2C6621%2C2783%2C23826%2C9500%2C1840%2C24118%2C21597%2C7916%2C3014%2C2230%2C451%2C30490%2C5022%2C9969%2C10619%2C4199%2C459%2C29655%2C9181%2C15416%2C82%2C4406%2C12969%2C12585%2C3228%2C4297%2C6032%2C1168%2C372%2C490%2C7269%2C16452%2C172%2C5773%2C3095%2C3475%2C5353%2C1900%2C2276%2C5691%2C1595%2C928%2C190%2C2058%2C114%2C159%2C2285%2C5831%2C1143%2C2550%2C11588%2C1463%2C756%2C11603%2C11368%2C3969%2C3613%2C446%2C565%2C5341%2C3040%2C666%2C8%2C612%2C937%2C2%2C4300%2C246%2C772%2C2571%2C1297%2C3189%2C999%2C15375%2C3813%2C3820&afmt=251&muted=1&docid=jkRU8XRIJL8&ei=hJ1XarvVIvudssUP_uuPmQ4&plid=AAZWp2dIb5j6qL-H&vm=CAEQABgEOjJBSHFpSlRLcVFfd3Y2TThhbnRfTHZsc21XVXcyaWs0MUxMZ2lDRDh1ZTNhbkg2dm9Od2JkQUxkcUFQSnpUZXR3Mi1CV2JKQTFFb2g4STU2dWY1U0UwVi02Y1EtT3F0SWhJT1NITDZzMGZzVndNN3UwZElpZmNrM1VUWHpnUElFdWdkT0xOMmJxT3hLV3RhWmd4dlB3Q2t2Tg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/playback?ns=yt&el=embedded&cpn=8lHRR5rlE2GZCf8X&ver=2&cmt=0.004&fmt=247&fs=0&rt=1.465&euri=https%3A%2F%2Fburritomadre.rs%2F&lact=1226&cl=946735169&mos=1&volume=100&cbrand=apple&cbr=HeadlessChrome&cbrver=149.0.7827.55&c=WEB_EMBEDDED_PLAYER&cver=2.20260714.01.00&cplayer=UNIPLAYER&cos=Macintosh&cosver=10_15_7&cplatform=DESKTOP&autoplay=1&epm=1&splay=1&hl=en_GB&cr=IN&len=27&fexp=v1%2C24004644%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35403%2C65299%2C2877%2C9730%2C2498%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C13016%2C16087%2C6621%2C2783%2C23826%2C9500%2C1840%2C24118%2C21597%2C7916%2C3014%2C2230%2C451%2C30490%2C5022%2C9969%2C10619%2C4199%2C459%2C29655%2C9181%2C15416%2C82%2C4406%2C12969%2C12585%2C3228%2C4297%2C6032%2C1168%2C372%2C490%2C7269%2C16452%2C172%2C5773%2C3095%2C3475%2C5353%2C1900%2C2276%2C5691%2C1595%2C928%2C190%2C2058%2C114%2C159%2C2285%2C5831%2C1143%2C2550%2C11588%2C1463%2C756%2C11603%2C11368%2C3969%2C3613%2C446%2C565%2C5341%2C3040%2C666%2C8%2C612%2C937%2C2%2C4300%2C246%2C772%2C2571%2C1297%2C3189%2C999%2C15375%2C3813%2C3820&rtn=11&afmt=251&size=1440%3A810&inview=0&muted=1&docid=jkRU8XRIJL8&ei=hJ1XarvVIvudssUP_uuPmQ4&plid=AAZWp2dIb5j6qL-H&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjkRU8XRIJL8%3Fcontrols%3D0%26rel%3D0%26playsinline%3D1%26cc_load_policy%3D0%26enablejsapi%3D1%26origin%3Dhttps%253A%252F%252Fburritomadre.rs%26widgetid%3D1%26forigin%3Dhttps%253A%252F%252Fburritomadre.rs%252Fen%252F%26aoriginsup%3D1%26vf%3D6&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBSHFpSlRLcVFfd3Y2TThhbnRfTHZsc21XVXcyaWs0MUxMZ2lDRDh1ZTNhbkg2dm9Od2JkQUxkcUFQSnpUZXR3Mi1CV2JKQTFFb2g4STU2dWY1U0UwVi02Y1EtT3F0SWhJT1NITDZzMGZzVndNN3UwZElpZmNrM1VUWHpnUElFdWdkT0xOMmJxT3hLV3RhWmd4dlB3Q2t2Tg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe?fmt=247&afmt=251&cpn=8lHRR5rlE2GZCf8X&el=embedded&ns=yt&fexp=v1%2C24004644%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35403%2C65299%2C2877%2C9730%2C2498%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C13016%2C16087%2C6621%2C2783%2C23826%2C9500%2C1840%2C24118%2C21597%2C7916%2C3014%2C2230%2C451%2C30490%2C5022%2C9969%2C10619%2C4199%2C459%2C29655%2C9181%2C15416%2C82%2C4406%2C12969%2C12585%2C3228%2C4297%2C6032%2C1168%2C372%2C490%2C7269%2C16452%2C172%2C5773%2C3095%2C3475%2C5353%2C1900%2C2276%2C5691%2C1595%2C928%2C190%2C2058%2C114%2C159%2C2285%2C5831%2C1143%2C2550%2C11588%2C1463%2C756%2C11603%2C11368%2C3969%2C3613%2C446%2C565%2C5341%2C3040%2C666%2C8%2C612%2C937%2C2%2C4300%2C246%2C772%2C2571%2C1297%2C3189%2C999%2C15375%2C3813%2C3820&cl=946735169&seq=1&docid=jkRU8XRIJL8&ei=hJ1XarvVIvudssUP_uuPmQ4&event=streamingstats&plid=AAZWp2dIb5j6qL-H&cbrand=apple&cbr=HeadlessChrome&cbrver=149.0.7827.55&c=WEB_EMBEDDED_PLAYER&cver=2.20260714.01.00&cplayer=UNIPLAYER&cos=Macintosh&cosver=10_15_7&cplatform=DESKTOP&vps=0.000:N,0.036:B,0.037:S,0.923:S,0.923:S&cat=streaming,sabr&cmt=0.036:0.000,0.037:0.000,0.923:0.000&afs=0.921:251::i:fl.-10000;tl.-14;vg.0;nm.1;sms.2:CAEoAQ&vfs=0.923:247:247::a:sms.2:CAEoAQ&view=0.923:1440:810&bwm=0.923:6711:0.300&bwe=0.923:642253&bat=0.923:0.29:0&vis=0.923:0&bh=0.923:0.000&qclc=ChA4bEhSUjVybEUyR1pDZjhYEAE",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/qoe?fmt=247&afmt=251&cpn=8lHRR5rlE2GZCf8X&el=embedded&ns=yt&fexp=v1%2C24004644%2C494890%2C26564109%2C34656%2C124674%2C117689%2C9252%2C3479%2C13030%2C23206%2C35403%2C65299%2C2877%2C9730%2C2498%2C25059%2C4174%2C30446%2C18706%2C21437%2C4571%2C13016%2C16087%2C6621%2C2783%2C23826%2C9500%2C1840%2C24118%2C21597%2C7916%2C3014%2C2230%2C451%2C30490%2C5022%2C9969%2C10619%2C4199%2C459%2C29655%2C9181%2C15416%2C82%2C4406%2C12969%2C12585%2C3228%2C4297%2C6032%2C1168%2C372%2C490%2C7269%2C16452%2C172%2C5773%2C3095%2C3475%2C5353%2C1900%2C2276%2C5691%2C1595%2C928%2C190%2C2058%2C114%2C159%2C2285%2C5831%2C1143%2C2550%2C11588%2C1463%2C756%2C11603%2C11368%2C3969%2C3613%2C446%2C565%2C5341%2C3040%2C666%2C8%2C612%2C937%2C2%2C4300%2C246%2C772%2C2571%2C1297%2C3189%2C999%2C15375%2C3813%2C3820&cl=946735169&seq=2&docid=jkRU8XRIJL8&ei=hJ1XarvVIvudssUP_uuPmQ4&event=streamingstats&plid=AAZWp2dIb5j6qL-H&cbrand=apple&cbr=HeadlessChrome&cbrver=149.0.7827.55&c=WEB_EMBEDDED_PLAYER&cver=2.20260714.01.00&cplayer=UNIPLAYER&cos=Macintosh&cosver=10_15_7&cplatform=DESKTOP&user_intent=0.018&bh=1.473:1.154,10.019:26.833&cmt=1.473:0.012,2.224:0.748,10.019:8.538&vps=1.473:PL,10.019:PL&bwm=10.019:4246166:4.294&bwe=10.019:1591096&bat=10.019:0.29:0&df=10.019:2&qclc=ChA4bEhSUjVybEUyR1pDZjhYEAI",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/api/stats/watchtime?ns=yt&el=embedded&cpn=8lHRR5rlE2GZCf8X&ver=2&cmt=9.521&fmt=247&fs=0&rt=11.001&euri=https%3A%2F%2Fburritomadre.rs%2F&lact=10767&cl=946735169&state=playing&volume=100%2C100&cbrand=apple&cbr=HeadlessChrome&cbrver=149.0.7827.55&c=WEB_EMBEDDED_PLAYER&cver=2.20260714.01.00&cplayer=UNIPLAYER&cos=Macintosh&cosver=10_15_7&cplatform=DESKTOP&autoplay=1&splay=1&hl=en_GB&cr=IN&len=27&rtn=21&afmt=251&idpj=-1&ldpj=-28&rti=11&size=1440%3A810&inview=0&st=0%2C0.012&et=0.004%2C9.521&muted=1%2C1&docid=jkRU8XRIJL8&ei=hJ1XarvVIvudssUP_uuPmQ4&plid=AAZWp2dIb5j6qL-H&referrer=https%3A%2F%2Fwww.youtube.com%2Fembed%2FjkRU8XRIJL8%3Fcontrols%3D0%26rel%3D0%26playsinline%3D1%26cc_load_policy%3D0%26enablejsapi%3D1%26origin%3Dhttps%253A%252F%252Fburritomadre.rs%26widgetid%3D1%26forigin%3Dhttps%253A%252F%252Fburritomadre.rs%252Fen%252F%26aoriginsup%3D1%26vf%3D6&of=_qCnwGk-KWlmu42OAuiBCg&vm=CAEQABgEOjJBSHFpSlRLcVFfd3Y2TThhbnRfTHZsc21XVXcyaWs0MUxMZ2lDRDh1ZTNhbkg2dm9Od2JkQUxkcUFQSnpUZXR3Mi1CV2JKQTFFb2g4STU2dWY1U0UwVi02Y1EtT3F0SWhJT1NITDZzMGZzVndNN3UwZElpZmNrM1VUWHpnUElFdWdkT0xOMmJxT3hLV3RhWmd4dlB3Q2t2Tg",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/embed/jkRU8XRIJL8?controls=0&rel=0&playsinline=1&cc_load_policy=0&enablejsapi=1&origin=https%3A%2F%2Fburritomadre.rs&widgetid=1&forigin=https%3A%2F%2Fburritomadre.rs%2Fen%2F&aoriginsup=1&vf=6",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/generate_204?stC7HQ",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/iframe_api",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/ptracking?html5=1&video_id=jkRU8XRIJL8&cpn=8lHRR5rlE2GZCf8X&ei=hJ1XarvVIvudssUP_uuPmQ4&ptk=youtube_none&pltype=contentugc",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.FjRM5rP5dVc.es5.O/am=AAAAgA/d=1/br=1/rs=AGKMywHKM847URCoGJ6U5ipkPYF-GPA5TA/m=root,base",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/_/ytembeds/_/js/k=ytembeds.base.en_US.FjRM5rP5dVc.es5.O/am=AAAAgA/d=1/exm=base,root/ed=1/br=1/rs=AGKMywHKM847URCoGJ6U5ipkPYF-GPA5TA/m=r78Drb",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/_/ytembeds/_/ss/k=ytembeds.base.8si6llszISs.L.W.O/am=AAAAgA/d=0/br=1/rs=AGKMywGVdPaDZpbbQBmNFDQFd1HGEhiI4Q",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/9b33d56a/player_embed.vflset/en_GB/base.js",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/9b33d56a/www-player.css",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/s/player/9b33d56a/www-widgetapi.vflset/www-widgetapi.js",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/youtubei/v1/log_event?alt=json",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/youtubei/v1/next?prettyPrint=false",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.youtube.com/youtubei/v1/player?prettyPrint=false",
+      "provider": "YouTube",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    }
+  ],
+  "skipped_other": [
+    {
+      "url": "https://googleads.g.doubleclick.net/pagead/id",
+      "reason": "non-2xx at capture time (302)"
+    }
+  ]
+}
