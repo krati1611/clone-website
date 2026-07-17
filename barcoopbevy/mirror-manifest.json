@@ -1,0 +1,537 @@
+{
+  "page": "https://www.barcoopbevy.com/",
+  "mirrored_at": "2026-07-16T13:48:21Z",
+  "authorization_context": "Owner confirmed",
+  "allowed_external_hosts": [],
+  "summary": {
+    "downloaded": 3,
+    "failed": 0,
+    "skipped_external": 72,
+    "skipped_provider_assets": 26,
+    "skipped_other": 2,
+    "extra_urls": 0
+  },
+  "extra_urls": [],
+  "downloaded": [
+    {
+      "url": "https://www.barcoopbevy.com/",
+      "path": "index.html",
+      "bytes": 419503
+    },
+    {
+      "url": "https://www.barcoopbevy.com/nvhc9u4gxsagNjYxNDA5NGVjNDZhOGMyMTFlZTNlZmFj/ga/g/c?v=2&tid=G-076YDQ0FJ5&gtm=45g92e67e0v9108970843za204zd9108970843&_p=1784209670817&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZGVlNj.dYWYxNW.dNzQzZD&_eu=EA&_uip=%3A%3A&are=1&cid=2056777552.1784209671&fp=1&frm=0&ir=1&ngs=1&pscdl=noapi&rcb=17&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&ur=IN-MP&_gsid=z5O7H4FFZnWUZIhbykbqihHwzLUOAgcavA&_s=1&tag_exp=115938466~115938468~118897920~118897930~119527020&sid=1784209671&sct=1&seg=0&dl=https%3A%2F%2Fwww.barcoopbevy.com%2F&dt=Barcoop%20Bevy&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&gap.gtb=1&tfd=3117",
+      "path": "nvhc9u4gxsagNjYxNDA5NGVjNDZhOGMyMTFlZTNlZmFj/ga/g/c/index.html",
+      "bytes": 0
+    },
+    {
+      "url": "https://www.barcoopbevy.com/nvhc9u4gxsagNjYxNDA5NGVjNDZhOGMyMTFlZTNlZmFj/rhMcMlJZTKXIUpNDeBGBTUU-s4w",
+      "path": "nvhc9u4gxsagNjYxNDA5NGVjNDZhOGMyMTFlZTNlZmFj/rhMcMlJZTKXIUpNDeBGBTUU-s4w/index.html",
+      "bytes": 467182
+    }
+  ],
+  "failed": [],
+  "skipped_external": [
+    {
+      "url": "https://a.klaviyo.com/forms/api/v3/geo-ip",
+      "host": "a.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js",
+      "host": "ajax.googleapis.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://alt-tags.accessiblyapp.com/v1/alt-tags",
+      "host": "alt-tags.accessiblyapp.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://bittermilk.myshopify.com/api/2025-01/graphql",
+      "host": "bittermilk.myshopify.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.accessibly.app/accessibly/2.0.3/accessibly.js",
+      "host": "cdn.accessibly.app",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.accessibly.app/accessibly/2.0.3/f8cef3fb44145ec4.woff",
+      "host": "cdn.accessibly.app",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.accessibly.app/accessibly/2.0.3/fonts/accessibly.js",
+      "host": "cdn.accessibly.app",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.accessibly.app/accessibly/2.0.3/i18n/statement-en-json.js",
+      "host": "cdn.accessibly.app",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.accessibly.app/accessibly/2.0.3/i18n/widget-en-json.js",
+      "host": "cdn.accessibly.app",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/timothydesign/scripts@v1.0.2/variables-color-scroll.js",
+      "host": "cdn.jsdelivr.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.css",
+      "host": "cdn.jsdelivr.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js",
+      "host": "cdn.jsdelivr.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/674f29033ad974dbf3d87d61_BarcoopBevy-CLW-156-p-1600.jpg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/css/barcoopbevy.shared.d31f8c805.css",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/js/barcoopbevy.383cd632.a753c94a0e875dfd.js",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/js/barcoopbevy.schunk.36b8fb49256177c8.js",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/js/barcoopbevy.schunk.66a15c119f0e927d.js",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/6614094ec46a8c211ee3efac/js/barcoopbevy.schunk.f71e4146cdb343d7.js",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512e46b6ec9921034243_660fff4abc9dfea627fc3ca1_BLOODY_MARY-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512e50cbd80e6217c77d_660fff2c8b4fea7bbb9cc648_PINA_COLADA-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512e70aa1b59e1ceb574_66100094055c3ce1dbb3dd78_Head-Ginger-Smash.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512e70aa1b59e1ceb57a_660ffef34de48cad8a2187cf_GINGER_SMASH-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512e827b7c6b3334e862_660fffc2668603d134f325ba_SPICY_STRAWBERRY_MARG-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512ec68bef7b77ccbca1_6610008a34638b1c5af51ef1_Head-Classic-Marg.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512ec68bef7b77ccbca8_660ffeb54d4e681eecbc52b1_CLASSIC_MARGARITA-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6615512efa7f7487afe44b42_660fff7e3942f90b0ee03504_CUCUMBER_MOJITO-bottle-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/66155645b53aa9e2085ce7c6_Rum.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/66155671f61fd6ae4c0717ec_Tequila.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/663be5c1d69d5cabd86e8f1b_soda-water-tag.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/66634b57b5878abbe117c65d_Dark%20and%20Stormy-p-1600.jpg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/66634c8691038cce2fc562af_Vodka%20Gimlet-p-1600.jpg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6a29c36cb03c0c2d14bce34b_skinny-marg-shadow.png",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6a3bf2f8102e4de4904a9306_litelimeade-p-1600.jpg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6a3bf3ef89a206a8f99e9787_skinnymarg-p-1600.jpg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdn.prod.website-files.com/66154e3e740024a5542c8310/6a4277d152c05827c1bfee8c_head-Skinny-Marg.svg",
+      "host": "cdn.prod.website-files.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js",
+      "host": "cdnjs.cloudflare.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js",
+      "host": "cdnjs.cloudflare.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=6614094ec46a8c211ee3efac",
+      "host": "d3e54v103j8qbb.cloudfront.net",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://dash.accessiblyapp.com/widget/04faf0b8-f528-413f-bfa0-989153ea3c9a/autoload.js",
+      "host": "dash.accessiblyapp.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fast.a.klaviyo.com/custom-fonts/api/v1/company-fonts/onsite?company_id=UMxbWv",
+      "host": "fast.a.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://sdks.shopifycdn.com/buy-button/latest/buy-button-storefront.min.js",
+      "host": "sdks.shopifycdn.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-forms.klaviyo.com/forms/api/v7/UMxbWv/full-forms",
+      "host": "static-forms.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/532.0e7e190ea756de832333.css",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/ClientStore.1a19d19620aad17658a9.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/Render.c3130def4b7d1c37bd29.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/default~Render~ClientStore~.06bceef33b68a6b383b6.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/default~Render~ClientStore~~onsite-back-in-stock.d095d93e14859373a01c.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/default~Render~back-in-stock-dynamic-button-handler~ClientStore~.fac9f0fe88ebdf394a34.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/fender_analytics.f04cbabb6f4337a1a032.js?cb=2",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/onsite-triggering-v2.de197ba28ed1011bed81.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/post_identification_sync.968f0a1bbd6d33eb9c36.js?cb=2",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/static.11af62fb4e32ef9947e4.js?cb=2",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/styles.c31f66396d8d14341647.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/telemetry.5f4af760c1426f838ca5.js?cb=2",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~Render.85b14abd925307776946.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~Render~customerHubRoot.049a6684701e0bab34d6.js",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static-tracking.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~static~in_app_forms~signup_forms~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~telemetry~customerHubRoot~contentBlocks~embeddedIntegrationBlocks~favorites~faq~.94f857182c5ddf891ee0.js?cb=2",
+      "host": "static-tracking.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/1011.09afdf7495dac2a28513.js",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/default~in_app_forms~signup_forms.79af70ca3fbf28c99eb4.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/event_adapter.f4a04fcdb8e205893e28.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/runtime.60d249c4a4bde0468ad2.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/sharedUtils.73086fe6223987d02f12.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/signup_forms.1827f3087206af47b094.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~in_app_forms~signup_forms.a899b049d575de74ade1.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~in_app_forms~signup_forms~client_identity~telemetry~onsite-triggering-v2~.84f06bbcdc5310b095cd.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/build-preview/commit-3747226419e6a2bafe4a4111df2f0fd35a4c05a4/vendors~in_app_forms~signup_forms~reviews~atlas~product_recommendations.cb17e1c10db346b210dc.js?cb=2",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/klaviyo.js?company_id=UMxbWv",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/sharedUtils.73086fe6223987d02f12.js",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~Render~ClientStore~~~onsite-back-in-stock.7d7b5b811b79d6bdfaae.js",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~in_app_forms~signup_forms~client_identity~telemetry~onsite-triggering-v2~.84f06bbcdc5310b095cd.js",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://static.klaviyo.com/onsite/js/vendors~static~in_app_forms~signup_forms~post_identification_sync~web_personalization~client_identity~server_side_cookies~reviews~telemetry~customerHubRoot~contentBlocks~embeddedIntegrationBlocks~favorites~faq~.94f857182c5ddf891ee0.js",
+      "host": "static.klaviyo.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.googletagmanager.com/gtag/js?id=G-076YDQ0FJ5&gtg_health=1",
+      "host": "www.googletagmanager.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    }
+  ],
+  "skipped_provider_assets": [
+    {
+      "url": "https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;600;700&display=swap",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic%7CMerriweather:300,300italic,400,400italic,700,700italic,900,900italic",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/merriweather/v33/u-4c0qyriQwlOrhSvowK_l5-eTxCVx0ZbwLvKH2Gk9hLmp0v5yA-xXPqCzLvF-udrHOg7iA.woff2",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/merriweather/v33/u-4e0qyriQwlOrhSvowK_l5UcA6zuSYEqOzpPe3HOZJ5eX1WtLaQwmYiSeqqJ-mXq1Gi.woff2",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memtYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWqWuU6FxZCJgg.woff2",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://fonts.gstatic.com/s/opensans/v44/memvYaGs126MiZpBA-UvWbX2vVnXBbObj2OVTS-mu0SC55I.woff2",
+      "provider": "Google Fonts (openly licensed)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=dav6hmg&ht=tk&f=139.169.173.175.5474.25136.1693.1695&a=1650310&app=typekit&e=css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=hdi6cfa&ht=tk&f=10805.32235.32236.32237.32238.32239.44998.44999.45000.45001&a=1851779&app=typekit&e=css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://p.typekit.net/p.css?s=1&k=rve1unu&ht=tk&f=44998.45001&a=1650310&app=typekit&e=css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://p.typekit.net/p.gif?s=1&k=hdi6cfa&ht=tk&h=www.barcoopbevy.com&f=10805.32235.32236.32237.32238.32239.44998.44999.45000.45001&a=1851779&js=1.21.0&app=typekit&e=js&_=1784209671721",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/1354e5/00000000000000007735afef/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n8&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/2bdaca/00000000000000007735afe5/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/67076b/00000000000000007735c6bc/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/67076b/00000000000000007735c6bc/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/6be18e/00000000000000007735afeb/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n7&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/97606d/00000000000000007735c6b4/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n5&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/a24755/00000000000000007735afe0/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n3&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/bed3c6/00000000000000007735c6b8/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/ceff00/00000000000000007735afe9/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n6&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/d9b817/000000000000000077359e22/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/e56b71/00000000000000007735c6b0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/af/e56b71/00000000000000007735c6b0/30/l?primer=7fa3915bdafdf03041871920a205bef951d72bf64dd4c4460fb992e3ecc3a862&fvd=n4&v=3",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/dav6hmg.css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/hdi6cfa.css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/hdi6cfa.js",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://use.typekit.net/rve1unu.css",
+      "provider": "Adobe Fonts (paid)",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    }
+  ],
+  "skipped_other": [
+    {
+      "url": "https://monorail-edge.shopifysvc.com/v1/produce",
+      "reason": "non-asset request type"
+    },
+    {
+      "url": "https://www.google-analytics.com/g/s/collect?v=2&_gsid=z5O7H4FFZnWUZIhbykbqihHwzLUOAgcavA&gtm=45g92e67e0v9108970843za204zd9108970843",
+      "reason": "non-asset request type"
+    }
+  ]
+}
