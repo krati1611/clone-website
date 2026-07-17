@@ -1,12 +1,12 @@
 {
-  "page": "https://www.pedicelmarketing.com/",
-  "mirrored_at": "2026-07-16T13:54:31Z",
+  "page": "https://www.pedicelmarketing.com/audit",
+  "mirrored_at": "2026-07-17T11:12:26Z",
   "authorization_context": "Owner confirmed",
   "allowed_external_hosts": [],
   "summary": {
     "downloaded": 1,
     "failed": 0,
-    "skipped_external": 59,
+    "skipped_external": 29,
     "skipped_provider_assets": 0,
     "skipped_other": 2,
     "extra_urls": 0
@@ -14,15 +14,20 @@
   "extra_urls": [],
   "downloaded": [
     {
-      "url": "https://www.pedicelmarketing.com/",
-      "path": "index.html",
-      "bytes": 72335
+      "url": "https://www.pedicelmarketing.com/audit",
+      "path": "audit/index.html",
+      "bytes": 22258
     }
   ],
   "failed": [],
   "skipped_external": [
     {
-      "url": "https://analytics.google.com/g/collect?v=2&tid=G-YRE3WMB728&gtm=45je67e0v894012350za200zd894012350&_p=1784210048370&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZGVlNj&_eu=AAAAACAC&are=1&cid=1423993881.1784210049&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=11&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~119773331&sid=1784210049&sct=1&seg=0&dl=https%3A%2F%2Fwww.pedicelmarketing.com%2F&dt=Pedicel%20Marketing%20%7C%20Marketing%20Agency&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=2127",
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-YRE3WMB728&gtm=45je67f0v894012350za200zd894012350&_p=1784286733902&_gaz=1&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZGVlNj&_eu=AgAAACAC&are=1&cid=940502738.1784286734&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=1&tag_exp=115938466~115938469~118897920~118897930~119527020~119724320~119773332&sid=1784286734&sct=1&seg=0&dl=https%3A%2F%2Fwww.pedicelmarketing.com%2Faudit&dt=Pedicel%20Marketing%20%7C%20Free%20Audit&en=page_view&_fv=1&_nsi=1&_ss=1&_ee=1&tfd=1234",
+      "host": "analytics.google.com",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://analytics.google.com/g/collect?v=2&tid=G-YRE3WMB728&gtm=45je67f0v894012350za200zd894012350&_p=1784286733902&gcd=13l3l3l3l1l1&npa=0&dma=0&gdid=dZGVlNj&_eu=AAgAACQC&_prs=ok&are=1&cid=940502738.1784286734&frm=0&ibt=1&ngs=1&pscdl=noapi&rcb=1&sr=1440x900&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uam=&uamb=0&uap=macOS&uapv=26.5.2&uaw=0&ul=en-us&_s=2&tag_exp=115938466~115938469~118897920~118897930~119527020~119724320~119773332&sid=1784286734&sct=1&seg=0&dl=https%3A%2F%2Fwww.pedicelmarketing.com%2Faudit&dt=Pedicel%20Marketing%20%7C%20Free%20Audit&en=ads_conversion_Book_appointment_1&_c=1&_et=2&tfd=1242",
       "host": "analytics.google.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
@@ -37,7 +42,7 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=9sxn5",
+      "url": "https://assets.apollo.io/micro/website-tracker/tracker.iife.js?nocache=j1tzia",
       "host": "assets.apollo.io",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
@@ -62,21 +67,6 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64a2995238dba40820b37732_Switzer-Semibold.otf",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64a2995238dba40820b37755_Design.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64a2995238dba40820b377b0_Careers%20Image.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
       "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64a52e82805f80ff256b96e6_Logo-Pedicel.svg",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
@@ -87,132 +77,12 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ec89a78adc76ab8c1bdf3a_star.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edddf43bc74990215d58a9_analysis-1.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edde1f1d0f3e9837b6da03_strategy-1.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edde67095a0a3801d5eb2a_execution-1.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edde77331752eaad0f87e0_optimization-1.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edef4c2bb2b2f3e7c9d433_first%20section-19.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edef5f4e77173a20d6b51c_first%20section-20.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edef6cdd41c656cf6dfe86_first%20section-21.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edef7a2bb2b2f3e7ca0e01_first%20section-22.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64edefa57f3684eeea3ac885_first%20section-23.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee00f75aa27c6e4cd59fb5_Ativo%207.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee0110599521d5f7ec70e0_Ativo%208.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee023156e09fc697fabbaf_Ativo%2012.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee04ac5ca61e3541a02da6_airflows-logo.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee04c6fde56a2c5d655531_sana-logo.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee04df65200efee9dd7a7d_pfizer-logo.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee08f656d6335e5865e4fc_Ativo%206.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee0961599521d5f7f6fcf0_Ativo%2010.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee097073042eff81acb376_Ativo%209.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ee098d5e9631259ca8760c_Ativo%204.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef76928421df2d3c1339c5_Lucas-2-01-p-500.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
       "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef9897da0fa101fbd887aa_executionpedicel-icons.svg",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef98a9c10ff257cac68452_communicationpedicel-icons.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef98b62eb23122a5eec239_data%20orientedpedicel-icons.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef98c9d8b1a0043fa4de04_exclusivepedicel-icons.svg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64f087e63ba5cfc448a26828_new%20ones-29-p-1600.png",
+      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64ef98fb0d6bd9101127c062_emailpedicel-icons.svg",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
@@ -232,11 +102,6 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64f9dc84eab199e81ad4b7d8_lightbox-pedicel-p-1600.webp",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
       "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/64f9e2ecc3e4c7cb7d878877_pedicel-Xsvg%20pedicel.svg",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
@@ -247,7 +112,7 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/js/webflow.fe043b07.2b0a8a0226cb0370.js",
+      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/js/webflow.e9f16f06.b8bc0307363251d7.js",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
@@ -258,26 +123,6 @@
     },
     {
       "url": "https://cdn.prod.website-files.com/64a2995238dba40820b37689/js/webflow.schunk.3d39ceb9f7b723d9.js",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b376ee/64f09311733b8fb62636b635_Project-SANA.jpg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b376ee/64f09501fe4b3cbdb06654dd_Project-ISN.jpg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b376ee/64f097b88af9f6e69c47fb62_project-LTF(2).jpg",
-      "host": "cdn.prod.website-files.com",
-      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
-    },
-    {
-      "url": "https://cdn.prod.website-files.com/64a2995238dba40820b376ee/65fadb73eb87c229a653f8ba_coeo-1.jpg",
       "host": "cdn.prod.website-files.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
@@ -297,18 +142,23 @@
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://us-assets.i.posthog.com/static/posthog-recorder.js?v=1.402.3",
+      "url": "https://us-assets.i.posthog.com/static/posthog-recorder.js?v=1.404.0",
       "host": "us-assets.i.posthog.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://us-assets.i.posthog.com/static/surveys.js?v=1.402.3",
+      "url": "https://us-assets.i.posthog.com/static/surveys.js?v=1.404.0",
       "host": "us-assets.i.posthog.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
-      "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-YRE3WMB728&cid=1423993881.1784210049&gtm=45je67e0v894012350za200zd894012350&rcb=11&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~119773331&z=195651064",
+      "url": "https://www.google.co.in/ads/ga-audiences?v=1&t=sr&slf_rd=1&_r=4&ngs=1&ibt=1&tid=G-YRE3WMB728&cid=940502738.1784286734&gtm=45je67f0v894012350za200zd894012350&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~119527020~119724320~119773332&z=1767093899",
       "host": "www.google.co.in",
+      "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
+    },
+    {
+      "url": "https://www.google.com/measurement/conversion?random=1784286734327&cv=11&tid=G-YRE3WMB728&fst=1784286734327&fmt=8&en=ads_conversion_Book_appointment_1&gtm=45je67f0v894012350za200zd894012350xec&gcd=13l3l3l3l1l1&dma=0&tag_exp=115938466~115938469~118897920~118897930~119527020~119724320~119773332&u_w=1440&u_h=900&url=https%3A%2F%2Fwww.pedicelmarketing.com%2Faudit&gacid=940502738.1784286734&ibt=1&frm=0&tiba=Pedicel%20Marketing%20%7C%20Free%20Audit&gdid=dZGVlNj&npa=0&pscdl=noapi&auid=1289640520.1784286734&uaa=arm&uab=64&uafvl=HeadlessChrome%3B149.0.7827.55%7CChromium%3B149.0.7827.55%7CNot)A%253BBrand%3B24.0.0.0&uamb=0&uam=&uap=macOS&uapv=26.5.2&uaw=0&rcb=1",
+      "host": "www.google.com",
       "action": "classify: Embed / Kept External / User-Supplied / Recreated From Observation / Blocked"
     },
     {
@@ -320,11 +170,11 @@
   "skipped_provider_assets": [],
   "skipped_other": [
     {
-      "url": "blob:https://www.pedicelmarketing.com/315fe6a3-dbf6-48ca-8453-329a39a886ab",
+      "url": "blob:https://www.pedicelmarketing.com/4a0ffdaa-e7f3-4fad-b65b-d9d3991b1450",
       "reason": "non-asset request type"
     },
     {
-      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-YRE3WMB728&cid=1423993881.1784210049&gtm=45je67e0v894012350za200zd894012350&rcb=11&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~119773331",
+      "url": "https://stats.g.doubleclick.net/g/collect?v=2&ngs=1&ibt=1&tid=G-YRE3WMB728&cid=940502738.1784286734&gtm=45je67f0v894012350za200zd894012350&rcb=1&aip=1&dma=0&gcd=13l3l3l3l1l1&npa=0&frm=0&tag_exp=115938466~115938469~118897920~118897930~119527020~119724320~119773332",
       "reason": "non-asset request type"
     }
   ]
